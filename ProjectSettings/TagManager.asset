@@ -10,6 +10,9 @@ TagManager:
   - Purple Dot
   - Red Dot
   - Yellow Dot
+  - Color
+  - Breakable
+  - Board
   layers:
   - Default
   - TransparentFX
